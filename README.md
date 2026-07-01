@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://ko-fi.com/serptail">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
-  </a>
-</p>
-
 # GitHub Bot
 
 GitHub Bot is a powerful automation tool designed to interact with GitHub's API. It allows you to automatically star repositories and follow users based on specific criteria, ensuring compliance with GitHub's Terms of Service. With features like rate limit awareness, undo operations, and graceful shutdown, GitHub Bot is your ideal companion for managing GitHub activity efficiently and safely.
@@ -209,11 +203,7 @@ If you find RepoUp useful, consider supporting me by:
 - Starring the repository on GitHub
 - Sharing the tool with others
 - Providing feedback and suggestions
-- Follow me for more :)
-
-<a href="https://ko-fi.com/serptail">
-  <img src="https://github.com/user-attachments/assets/ba118768-9054-416f-b7b2-adaa69a53434" alt="Support me on Ko-fi" width="200" />
-</a>
+- Follow me for more 
     
 ---
 For any issues or feature requests, please open an issue on GitHub. Happy coding!
